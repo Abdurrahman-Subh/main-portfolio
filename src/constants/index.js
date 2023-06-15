@@ -158,27 +158,18 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Ekip, profesyonel ve hızlı çözümleriyle etkileyiciydi. Gereksinimlerimizi anladılar ve bizi şaşırtacak bir ürün ortaya koydular. Gelecekteki projelerde yeniden çalışmayı düşünüyoruz.",
+    name: "Ilhan Aslan",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "Ekip, bağlılık ve teknik becerileriyle etkileyiciydi. İhtiyaçlarımızı dikkatlice dinlediler ve mükemmel bir çözüm sunarak beklentilerimizi aştılar. İletişimleri mükemmeldi ve zamanında tamamladılar.",
+    name: "Ceren Dökemener",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "Özverili ve profesyonel çalışma. Yaratıcılıklarını ve teknik uzmanlıklarını gösterdiler. Her adımda iletişimde oldular ve sonuçta harika bir ürün elde ettik. Güvenle tavsiye ediyoruz.",
+    name: "Hüseyin Kazanç",
   },
 ];
 
