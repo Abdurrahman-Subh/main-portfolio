@@ -28,8 +28,10 @@ import tesla from "./company/tesla.png";
 import ggm from "./ggm.png";
 import freelancer from "./freelancer.jpg";
 import coinfluencer from "./coinfluencer.jpg";
+import car from "./car.png";
 
-import carrent from "./carrent.png";
+import fixhub from "./fixhub.png";
+import spotify from "./spotify.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -62,7 +64,9 @@ export {
   shopify,
   starbucks,
   tesla,
-  carrent,
+  fixhub,
   jobit,
+  spotify,
   tripguide,
+  car,
 };

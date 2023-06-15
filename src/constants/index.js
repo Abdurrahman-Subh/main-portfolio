@@ -15,13 +15,13 @@ import {
   git,
   figma,
   docker,
-  carrent,
-  jobit,
-  tripguide,
   threejs,
   ggm,
   freelancer,
   coinfluencer,
+  fixhub,
+  spotify,
+  car,
 } from "../assets";
 
 export const navLinks = [
@@ -201,8 +201,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: fixhub,
   },
   {
     name: "Spotify Clone",
@@ -222,8 +221,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: spotify,
   },
   {
     name: "Araç Sergisi",
@@ -243,8 +241,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: car,
   },
 ];
 
